@@ -1,0 +1,264 @@
+## Training
+accumulate_grad_batches: 1
+add_word_pos: true
+amp: false
+binarizer_cls: preprocess.vc_binarizer.BaseBinarizer
+raw_data_dir: data/raw/emo_data
+binary_data_dir: data/binary/libritts_combine
+check_val_every_n_epoch: 10
+clip_grad_norm: 1
+clip_grad_value: 0
+debug: false
+ds_name: vctk
+ds_workers: 2
+endless_ds: true
+eval_max_batches: -1
+lr: 0.00002
+load_ckpt: ''
+max_epochs: 1000
+max_frames: 1548
+max_input_tokens: 1550
+max_tokens: 40000
+max_valid_sentences: 1
+max_valid_tokens: 60000
+num_ckpt_keep: 3
+num_sanity_val_steps: 5
+num_spk: 1261
+num_valid_plots: 10
+optimizer_adam_beta1: 0.9
+optimizer_adam_beta2: 0.98
+posterior_start_steps: 0
+print_nan_grads: false
+profile_infer: false
+rename_tmux: true
+resume_from_checkpoint: 0
+save_best: false
+save_codes:
+- tasks
+- modules
+save_f0: false
+save_gt: true
+scheduler: warmup
+seed: 1234
+sigmoid_scale: false
+sort_by_len: true
+tb_log_interval: 100
+test_input_yaml: ''
+test_num: 100
+test_set_name: test
+train_set_name: train
+train_sets: ''
+two_stage: true
+val_check_interval: 2000
+valid_infer_interval: 2000
+valid_monitor_key: val_loss
+valid_monitor_mode: min
+valid_set_name: valid
+warmup_updates: 800
+weight_decay: 0
+word_dict_size: 40500
+mask_ratio: 0.12
+
+
+# Mask
+mask_type: 'alignment_aware'
+training_mask_ratio: 0.80
+infer_mask_ratio: 0.30
+
+
+# diffusion model
+diff_decoder_type: 'wavenet'
+dilation_cycle_length: 1
+residual_layers: 20
+residual_channels: 256
+keep_bins: 80
+spec_min: [ ]
+spec_max: [ ]
+diff_loss_type: l1
+max_beta: 0.06
+# diffusion
+timesteps: 4
+timescale: 1
+schedule_type: 'vpsde'
+
+
+# Modules
+conv_use_pos: false
+dec_dilations:
+- 1
+- 1
+- 1
+- 1
+dec_ffn_kernel_size: 9
+dec_inp_add_noise: false
+dec_kernel_size: 5
+dec_layers: 4
+dec_post_net_kernel: 3
+decoder_rnn_dim: 0
+decoder_type: conv
+detach_postflow_input: true
+disc_interval: 1
+disc_lr: 0.00002
+disc_norm: in
+disc_reduction: stack
+disc_start_steps: 20000000
+disc_win_num: 3
+discriminator_optimizer_params:
+  eps: 1.0e-06
+  weight_decay: 0.0
+discriminator_scheduler_params:
+  gamma: 0.5
+  step_size: 40000
+dropout: 0.0
+dur_level: word
+dur_predictor_kernel: 5
+dur_predictor_layers: 3
+enc_dec_norm: ln
+enc_dilations:
+- 1
+- 1
+- 1
+- 1
+enc_ffn_kernel_size: 5
+enc_kernel_size: 5
+enc_layers: 4
+enc_post_net_kernel: 3
+enc_pre_ln: true
+enc_prenet: true
+encoder_K: 8
+ffn_act: gelu
+ffn_hidden_size: 768
+fft_size: 1024
+fvae_dec_n_layers: 4
+fvae_decoder_type: conv
+fvae_enc_dec_hidden: 192
+fvae_enc_n_layers: 8
+fvae_encoder_type: conv
+fvae_kernel_size: 5
+fvae_noise_scale: 1.0
+fvae_strides: 4
+latent_size: 16
+layers_in_block: 2
+num_heads: 2
+mel_disc_hidden_size: 128
+predictor_dropout: 0.2
+predictor_grad: 0.1
+predictor_hidden: -1
+predictor_kernel: 5
+predictor_layers: 5
+prior_flow_hidden: 64
+prior_flow_kernel_size: 3
+prior_flow_n_blocks: 4
+ref_norm_layer: bn
+share_wn_layers: 4
+text_encoder_postnet: true
+use_cond_proj: false
+use_fvae: false
+use_gt_dur: false
+use_gt_f0: false
+use_latent_cond: false
+use_pos_embed: true
+use_post_flow: true
+use_prior_flow: true
+use_txt_cond: true
+use_uv: true
+use_word_encoder: false
+use_word_input: false
+word_enc_layers: 4
+word_encoder_type: rel_fft
+mel_enc_layers: 4
+
+
+# FFT
+frames_multiple: 1
+mel_vmax: 1.5
+mel_vmin: -6
+min_frames: 0
+noise_scale: 0.8
+
+# Infer
+gen_dir_name: ''
+infer: false
+infer_post_glow: true
+out_wav_norm: false
+test_ids: [ ]
+eval_mcd: False
+
+# Train
+use_spk_embed: false
+use_spk_id: false
+task_cls: tasks.tts.promptts.promptTTS1.PromptTTSTask
+max_sentences: 16  #16
+max_tokens: 40000
+max_updates: 400000
+num_valid_plots: 10
+hidden_size: 256
+pitch_type: frame
+encoder_type: text_cond_reltrans
+decoder_type: conv
+adaptive_encoder_type: cond_fft
+use_pitch_embed: true
+preprocess_cls: egs.datasets.audio.esd.pre_align.ESDPreAlign
+preprocess_args:
+  add_eos_bos: false
+  mfa_group_shuffle: true
+  mfa_offset: 0.02
+  nsample_per_mfa_group: 1000
+  reset_phone_dict: true
+  reset_word_dict: true
+  txt_processor: en
+  use_mfa: true
+  vad_max_silence_length: 12
+  wav_processors: []
+  with_phsep: true
+
+# Loss lambda
+kl_min: 0.0
+kl_start_steps: 10000
+lambda_energy: 0.1
+lambda_f0: 1.0
+lambda_kl: 1.0
+lambda_mel_adv: 0.05
+lambda_ph_dur: 1.0
+lambda_sent_dur: 1.0
+lambda_uv: 1.0
+lambda_word_dur: 1.0
+mel_losses: l1:0.5|ssim:0.5
+
+
+
+### adv
+disc_start_steps: 1
+lambda_mel_adv: 0.05
+disc_interval: 1
+
+
+
+### diffusion
+diff_decoder_type: wavenet
+
+# dataset preprocess
+audio_num_mel_bins: 80
+loud_norm: false
+audio_sample_rate: 24000
+fft_size: 1024
+win_size: 1024
+hop_size: 320
+fmin: 55
+fmax: 7600
+f0_min: 80
+f0_max: 600
+min_mel_length: 64
+pitch_extractor: parselmouth
+binarization_args:
+  with_f0: true
+  with_style_embed: true
+  with_wav: false
+  shuffle: true
+  train_range: [ 600, -1 ]
+  test_range: [ 0, 200 ]
+  valid_range: [ 200, 600 ]
+
+# Vocoder
+vocoder: NSF-HifiGAN
+vocoder_ckpt: checkpoints/libritts_24k_nsf_hifigan
