@@ -1,0 +1,7 @@
+| Copied codes to checkpoints/emotion2vec_recognizer_seq_10w/codes/20240514102032.
+| model Trainable Parameters: 0.199M
+pre_net.weight
+pre_net.bias
+post_net.weight
+post_net.bias
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.

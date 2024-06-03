@@ -1,0 +1,110 @@
+| Copied codes to checkpoints/emotion2vec_recognizer_seq_10w/codes/20240514111231.
+| model Trainable Parameters: 0.199M
+pre_net.weight
+pre_net.bias
+post_net.weight
+post_net.bias
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@100000: {'total_loss': 0.6916, 'emo_cls_loss': 0.6916, 'acc': 0.8}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@102000: {'total_loss': 2.5078, 'emo_cls_loss': 2.5078, 'acc': 0.404}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@104000: {'total_loss': 2.5801, 'emo_cls_loss': 2.5801, 'acc': 0.3939}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@106000: {'total_loss': 2.2724, 'emo_cls_loss': 2.2724, 'acc': 0.4596}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@108000: {'total_loss': 1.9034, 'emo_cls_loss': 1.9034, 'acc': 0.4747}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@110000: {'total_loss': 2.4103, 'emo_cls_loss': 2.4103, 'acc': 0.4293}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@112000: {'total_loss': 1.9534, 'emo_cls_loss': 1.9534, 'acc': 0.4747}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@114000: {'total_loss': 2.5451, 'emo_cls_loss': 2.5451, 'acc': 0.3838}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@116000: {'total_loss': 2.0775, 'emo_cls_loss': 2.0775, 'acc': 0.4949}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@118000: {'total_loss': 2.0573, 'emo_cls_loss': 2.0573, 'acc': 0.4596}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@120000: {'total_loss': 3.0993, 'emo_cls_loss': 3.0993, 'acc': 0.3535}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@122000: {'total_loss': 2.152, 'emo_cls_loss': 2.152, 'acc': 0.4747}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@124000: {'total_loss': 2.4596, 'emo_cls_loss': 2.4596, 'acc': 0.4444}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@126000: {'total_loss': 2.3815, 'emo_cls_loss': 2.3815, 'acc': 0.4646}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@128000: {'total_loss': 2.2668, 'emo_cls_loss': 2.2668, 'acc': 0.4646}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@130000: {'total_loss': 2.7344, 'emo_cls_loss': 2.7344, 'acc': 0.404}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@132000: {'total_loss': 2.7375, 'emo_cls_loss': 2.7375, 'acc': 0.3838}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@134000: {'total_loss': 2.583, 'emo_cls_loss': 2.583, 'acc': 0.4343}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@136000: {'total_loss': 2.2447, 'emo_cls_loss': 2.2447, 'acc': 0.4697}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@138000: {'total_loss': 2.973, 'emo_cls_loss': 2.973, 'acc': 0.3889}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@140000: {'total_loss': 2.7381, 'emo_cls_loss': 2.7381, 'acc': 0.4192}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@142000: {'total_loss': 2.5813, 'emo_cls_loss': 2.5813, 'acc': 0.4242}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@144000: {'total_loss': 3.0134, 'emo_cls_loss': 3.0134, 'acc': 0.3939}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@146000: {'total_loss': 2.3898, 'emo_cls_loss': 2.3898, 'acc': 0.4697}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@148000: {'total_loss': 2.4205, 'emo_cls_loss': 2.4205, 'acc': 0.4747}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@150000: {'total_loss': 2.6147, 'emo_cls_loss': 2.6147, 'acc': 0.4394}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@152000: {'total_loss': 2.9859, 'emo_cls_loss': 2.9859, 'acc': 0.3788}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@154000: {'total_loss': 2.8453, 'emo_cls_loss': 2.8453, 'acc': 0.4293}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@156000: {'total_loss': 2.9804, 'emo_cls_loss': 2.9804, 'acc': 0.3889}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@158000: {'total_loss': 3.4232, 'emo_cls_loss': 3.4232, 'acc': 0.3535}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@160000: {'total_loss': 3.1047, 'emo_cls_loss': 3.1047, 'acc': 0.3889}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@162000: {'total_loss': 2.7538, 'emo_cls_loss': 2.7538, 'acc': 0.4343}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@164000: {'total_loss': 2.7779, 'emo_cls_loss': 2.7779, 'acc': 0.4293}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@166000: {'total_loss': 2.6972, 'emo_cls_loss': 2.6972, 'acc': 0.4242}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@168000: {'total_loss': 3.3006, 'emo_cls_loss': 3.3006, 'acc': 0.3939}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@170000: {'total_loss': 2.4934, 'emo_cls_loss': 2.4934, 'acc': 0.4798}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@172000: {'total_loss': 2.6343, 'emo_cls_loss': 2.6343, 'acc': 0.4444}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@174000: {'total_loss': 2.6316, 'emo_cls_loss': 2.6316, 'acc': 0.4545}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@176000: {'total_loss': 2.9689, 'emo_cls_loss': 2.9689, 'acc': 0.4242}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@178000: {'total_loss': 2.9352, 'emo_cls_loss': 2.9352, 'acc': 0.4293}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@180000: {'total_loss': 2.9424, 'emo_cls_loss': 2.9424, 'acc': 0.4545}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@182000: {'total_loss': 2.906, 'emo_cls_loss': 2.906, 'acc': 0.4545}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@184000: {'total_loss': 2.6125, 'emo_cls_loss': 2.6125, 'acc': 0.4747}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@186000: {'total_loss': 2.4243, 'emo_cls_loss': 2.4243, 'acc': 0.4949}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@188000: {'total_loss': 3.3959, 'emo_cls_loss': 3.3959, 'acc': 0.3838}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@190000: {'total_loss': 3.0039, 'emo_cls_loss': 3.0039, 'acc': 0.4444}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@192000: {'total_loss': 3.0999, 'emo_cls_loss': 3.0999, 'acc': 0.4141}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@194000: {'total_loss': 2.8794, 'emo_cls_loss': 2.8794, 'acc': 0.4545}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@196000: {'total_loss': 3.1383, 'emo_cls_loss': 3.1383, 'acc': 0.4343}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@198000: {'total_loss': 2.9109, 'emo_cls_loss': 2.9109, 'acc': 0.4495}
+| load 'model_gen' from 'checkpoints/libri_16k_hifigan/model_ckpt_steps_1900000.ckpt'.
+| Validation results@200000: {'total_loss': 3.0952, 'emo_cls_loss': 3.0952, 'acc': 0.4343}
+| Training end..
+Epoch 0 ended. Steps: 200001. {'total_loss': 0.2936, 'emo_cls_loss': 0.2936, 'batch_size': 31.9943, 'acc': 0.9028}

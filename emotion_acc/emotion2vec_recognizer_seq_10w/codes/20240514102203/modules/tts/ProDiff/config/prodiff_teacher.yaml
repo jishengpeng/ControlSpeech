@@ -1,0 +1,13 @@
+base_config:
+  - ./base.yaml
+
+raw_data_dir: 'data/raw/esd'
+processed_data_dir: 'data/processed/esd'
+binary_data_dir: 'data/binary/esd'
+
+task_cls: tasks.tts.ProDiff_teacher_task.ProDiff_teacher_Task
+
+# diffusion
+timesteps: 4
+timescale: 1
+schedule_type: 'vpsde'
