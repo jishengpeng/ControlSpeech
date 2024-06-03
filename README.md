@@ -13,10 +13,28 @@
 
 ## VccmDataset
 
-
-
 ## Evaluation Metrics
 
+### Speed acc
+```shell
+# To obtain the relevant grid, it is necessary to perform MFA alignment in advance
+mfa align --clean $BASE_DIR/$MFA_INPUTS $BASE_DIR/mfa_dict.txt $BASE_DIR_AGO/model/$MODEL_NAME.zip  $BASE_DIR/$MFA_OUTPUTS 
+python ./pitch_energy_dur_acc/duration_acc.py
+```
+
+## Pitch and Energy acc
+```shell
+python ./pitch_energy_dur_acc/energy_pitch_acc.py
+```
+
+## Emotion
+```shell
+# extract the embeddings of the test dataset using the pre-trained emotion2Vec model
+python ./emotion_acc/emotion2vec_demo.py
+# perform inference with the fine-tuned emotion model
+python ./emotion_acc/controlnet_emo_acc.py  
+
+```
 
 ## Baseline(support PromptTTS and PromptStyle)
 
