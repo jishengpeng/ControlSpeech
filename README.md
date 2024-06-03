@@ -1,4 +1,9 @@
-# ControlSpeech
+# ControlSpeech: Towards Simultaneous Zero-shot Speaker Cloning and Zero-shot Language Style Control With Decoupled Codec
+
+
+<!-- [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2402.12208.pdf) -->
+[![demo](https://img.shields.io/badge/ControlSpeech-Demo-red)](https://controlspeech.github.io)
+[![model](https://img.shields.io/badge/%F0%9F%A4%97%20ControlSpeech-Models(Baseline)-blue)](https://drive.google.com/drive/folders/1H8U165KjLV05axwRWgZRsBdGO4R9T7F_?usp=drive_link)
 
 ## Installation
 
