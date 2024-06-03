@@ -1,200 +1,200 @@
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Neutral/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013-Neutral-0013_000237.wav|2381|What would they do at the end of the year?
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/240/160592/240_160592_000035_000000.wav|462|Mirth is the mail of anguish, In which it cautions arm, Lest anybody spy the blood And "You're hurt" exclaim!
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/2010/121416/2010_121416_000087_000000.wav|343|"Ah, Monsieur Mazarin, Monsieur Mazarin," said Rochefort, leading off his curate, who had not found an opportunity of uttering a single word during the foregoing dialogue, "you will see whether I am too old to be a man of action."
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/6689/64286/6689_64286_000074_000003.wav|1618|To make either possible, you must convert her, too.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-100/1069/133699/1069_133699_000004_000003.wav|26|This contribution to the discussion, however, Miss Stackpole rejected with scorn.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/1767/142932/1767_142932_000004_000002.wav|266|I do hope he is going to stay here.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/4005/14905/4005_14905_000009_000002.wav|886|Brian was one of his best dogs, but he was not very large, as he only stood just over thirty inches at the shoulder.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0020-Happy-0020_000947.wav|2388|She and i are running a neck and neck race.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/2606/132102/2606_132102_000069_000003.wav|524|But I think the secret was that Katy didn't "manage," but tried to be always kind and loving, and considerate of Phil's feelings.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/6747/76145/6747_76145_000024_000001.wav|1637|The same unerodable metal seemed to have been used throughout the whole affair.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0017/Neutral/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0017-Neutral-0017_000340.wav|2385|So Tom saw night as it were broad daylight.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Neutral/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0016-Neutral-0016_000166.wav|2384|They ate beef at the butcher shop.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/585/294811/585_294811_000019_000011.wav|1367|Ginger cordial.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/6735/284431/6735_284431_000039_000001.wav|1633|There were several of these gates, and from their recesses stone steps led to the top of the wall.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/705/167610/705_167610_000035_000000.wav|1715|"Ah... a wonderful, a matchless people!" said Kutuzov; and he closed his eyes and swayed his head.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/4535/279852/4535_279852_000040_000000.wav|1034|It was nearly six o'clock when they reached the little town of Judson.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Angry/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018-Angry-0018_000402.wav|2386|From August eighteenth, of their divorce.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/7868/110706/7868_110706_000012_000001.wav|1976|This, however, relieved his thirst; an hour's repose recruited his hardy frame, and, with the indomitable spirit of avarice, he resumed his laborious journey.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/7994/258960/7994_258960_000023_000003.wav|2013|Such instances were numerous in the Middle Ages in the renting of land, and still are found in many countries.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/4321/27567/4321_27567_000003_000002.wav|978|So, after a month or two, Gluck grew tired and made up his mind to go and try his fortune with the Golden River.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/3021/121440/3021_121440_000012_000000.wav|621|"I begin to think so, particularly if you have not forgotten a certain signal."
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/8291/276745/8291_276745_000014_000000.wav|2100|First, the organization of the army.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/2812/160187/2812_160187_000001_000006.wav|569|But now, Full grown to man, acknowledged, as I hear, By john the Baptist, and in public shewn, Son owned from Heaven by his Father's voice, I looked for some great change.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/MEAD/W040/audio/angry/level_3/MEAD-W040-audio-angry-level_3-003.wav|2436|Will you tell me why
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/6395/86708/6395_86708_000039_000001.wav|1537|Have you that means?"
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/6918/61317/6918_61317_000028_000002.wav|1681|"Among the ancients", wrote Professor Robertson Smith, "blood is generally conceived as the principle or vehicle of life, and so the account often given of sacred waters is that the blood of the deity flows in them.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/7096/80685/7096_80685_000054_000000.wav|1733|'Perhaps you were one of the swallows who sang to me in the summer,' said she.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/5101/67854/5101_67854_000024_000002.wav|1180|Now and then a dark figure went along the street.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/2351/151965/2351_151965_000001_000000.wav|449|Maggie Tries to Run away from Her Shadow
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/4959/28865/4959_28865_000039_000000.wav|1139|"It is, sir, because he understands it."
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/778/126734/778_126734_000048_000000.wav|1945|"Doubtless," was the answer; "but there's no time like the present, believe me.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/8176/115046/8176_115046_000017_000000.wav|2070|"Then won't you or some of us, have to be listening all the while?"
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-100/4340/15220/4340_15220_000063_000001.wav|983|I'd like to see her walking eight miles.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/7337/92819/7337_92819_000041_000001.wav|1822|She offered General Kitchener some jam on a cracker; but he only looked at her as the sphinx would have looked at a butterfly-if there are butterflies in the desert.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/5361/27492/5361_27492_000072_000000.wav|1248|'Of the Marston brothers, the elder one, Richard, would seem to have been similarly apprised, but james Marston was arrested in his cottage in Specimen Gully.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/4438/48525/4438_48525_000005_000001.wav|1009|But Lucy in such matters was content to follow him, aware of her want of experience and of the abundance of his, and the thought that was worrying her only had to do with a waiter.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/167/15255/167_15255_000018_000003.wav|223|I became unconscious; I didn't know what became of me for a day or two.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/4936/64719/4936_64719_000028_000001.wav|1133|I have emptied a cask of wine already, but it was just like a drop of water on a hot stone."
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/3488/65654/3488_65654_000043_000001.wav|751|I think the manager believed me to be a detective, for he was most courteous, and ready to give me all information.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/4161/185349/4161_185349_000030_000006.wav|933|I only wish to indicate the true position of nature in regard to man, wherein to establish man, all right education tends; as the ground which to attain is the object of human life, that is, of man's connection with nature.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/119/129514/119_129514_000006_000002.wav|67|It was pointed at an angle of ninety degrees, and suspended upon truncheons, so that the president could balance himself upon it as upon a rocking chair, a very agreeable fact in the very hot weather.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/161/121898/161_121898_000035_000000.wav|200|'Then we can safely conclude, also, that God's essence is seated in absolute good, and nowhere else.'
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/7848/275149/7848_275149_000004_000000.wav|1973|"There's nothing to be surprised at, mrs Presty.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/8631/283727/8631_283727_000063_000002.wav|2192|Make for the gate."
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/4218/41159/4218_41159_000038_000005.wav|949|I must have everything out with you."
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Happy/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0016-Happy-0016_000923.wav|2384|Pick, pick, pick!
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/923/132307/923_132307_000139_000001.wav|2264|"Of course it's awfully fascinating!" she cried. "peter, would you teach john and Michael to fly too?"
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/4090/183977/4090_183977_000015_000002.wav|916|She had no literary or historic associations to which to attach her impressions: her education had evidently not comprised a course in Greek literature.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/4313/9936/4313_9936_000010_000005.wav|976|"He operated on me for a cataract," he said.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/7398/98876/7398_98876_000001_000001.wav|1841|I mean erysipelas of new born infants, which commences at the genital organs, thence spreads over the skin, and terminates in the induration and destruction of this organ.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/7484/39971/7484_39971_000012_000002.wav|1862|It is the condition of our having aims.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-100/1926/147987/1926_147987_000014_000010.wav|315|She spent the whole morning bathing and poulticing me, and rubbing me with arnica.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/4703/73029/4703_73029_000010_000001.wav|1069|"Blessed be the name of the Lord," continued Lady Clavering.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-100/7800/283492/7800_283492_000030_000002.wav|1956|I'd like to know how you figure that out, Frank."
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/5893/54391/5893_54391_000044_000000.wav|1379|No wonder, indeed, that Miss Flora was quite breathless with it all.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/7391/60445/7391_60445_000011_000000.wav|1838|Going home, he told his mother and her servants what he had done, and they went to see, and marvelled that he could catch such fleet creatures as the wild red deer.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-100/1116/137572/1116_137572_000004_000002.wav|45|These traits cannot be changed overnight.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-100/8465/246947/8465_246947_000041_000003.wav|2154|No, Helen; when I trust, I trust out and out."
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/4156/12351/4156_12351_000061_000000.wav|931|So I said to hell with that and the next time I saw George Crowley I told him the story and George said, "We don't use synthetic flavor, alfalfa or anything like that."
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013-Surprise-0013_001695.wav|2381|I know how to obey orders.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/MEAD/M029/audio/happy/level_1/MEAD-M029-audio-happy-level_1-012.wav|2404|Project development was proceeding too slowly
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-100/8580/287363/8580_287363_000028_000000.wav|2181|"Well, I predict that we will have a bad storm," insisted mr Parker, and Tom could not help wishing that the scientist would keep his gloomy forebodings to himself.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/6763/74797/6763_74797_000005_000002.wav|1643|Ellen Terry's acting, the Royal Academy Exhibition, private theatricals, and twenty things besides, but they all seemed unsuitable subjects to start conversation with in this case.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/1985/144468/1985_144468_000128_000000.wav|330|'Steerforth! won't you speak to me?'
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/4222/12898/4222_12898_000002_000002.wav|950|The farming operations had gone on regularly, but the men always worked with their rifles ready to their hand.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/MEAD/M013/audio/fear/level_2/MEAD-M013-audio-fear-level_2-024.wav|2395|Land based radar would help with this task
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/2229/152864/2229_152864_000007_000004.wav|409|I began to lose sight of the lean, long coated figure, and at length could no more hear his swishing stride through the heather. But then I heard instead the slow flapping wings of the raven; and, at intervals, now a firefly, now a gleaming butterfly rose into the rayless air.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/6339/65554/6339_65554_000064_000004.wav|1514|Play acting hadn't spoiled her-couldn't spoil her.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/2351/151965/2351_151965_000002_000002.wav|449|No! she would run away and go to the gypsies, and Tom should never see her any more.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Neutral/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0014-Neutral-0014_000264.wav|2382|Slam the doors and wedge them!
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/1752/16632/1752_16632_000076_000003.wav|259|Then he poked the object with his stick.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/4005/7262/4005_7262_000006_000001.wav|886|I lifted my head.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/923/132306/923_132306_000083_000001.wav|2264|"What fun!" he said doubtfully, and they did not dare expose him when mrs Darling and Nana returned.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/4280/185518/4280_185518_000008_000001.wav|969|Rather too large a sum to keep locked up in a casket, the reader will confess!
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/7594/81881/7594_81881_000020_000002.wav|1895|It was but the final artistic touch to this comedy of mockery of which he had been the victim....
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Neutral/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018-Neutral-0018_000141.wav|2386|Can I lodge here tonight?
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-100/1867/154071/1867_154071_000041_000005.wav|298|Bill, what that girl told you didn't come out of her own head.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-100/1246/124548/1246_124548_000004_000001.wav|81|But it proved that mr Bert Tybee, the former bartender, desired the postmastership.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/3370/163384/3370_163384_000046_000009.wav|723|I reckon I'd better put 'em on, but I'd ruther not, it's so warm.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/1757/128103/1757_128103_000002_000000.wav|262|(Pall Mall Gazette, november tenth eighteen eighty six.)
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/4280/185518/4280_185518_000015_000000.wav|969|"What is the state of affairs about the necklace," asked the lady.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/791/127519/791_127519_000032_000001.wav|1988|"You wish us to keep this matter dark and to make a garrison of the stern part of the ship, manned with my friend's own people, and provided with all the arms and powder on board.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/3871/693/3871_693_000018_000010.wav|846|They don't explore such depths once in their lives.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/5883/59268/5883_59268_000034_000000.wav|1375|We soon reached the place appointed for the shooting match.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/6749/74575/6749_74575_000014_000002.wav|1638|I might have drawn black Lines with a Pen, but the Threds were smaller and better defined.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/7238/107675/7238_107675_000010_000004.wav|1779|The poor Brahmani was very thankful.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/7128/84121/7128_84121_000049_000000.wav|1743|There were times when she felt, as she expressed it to her mother, as if she had been dining off beef essence and oxygen.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/3914/10089/3914_10089_000019_000000.wav|859|"You admitted it months ago, when I spoke of it to you as of something you were afraid I should find out.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/6378/61780/6378_61780_000022_000003.wav|1532|He remained in shadow, to have a better view of what was passing under the sunlight.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/7640/104647/7640_104647_000051_000000.wav|1904|Tad's left hand joined his right in closing over his adversary's wrist.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/4111/184448/4111_184448_000051_000002.wav|921|I was glad myself.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/5401/39508/5401_39508_000003_000000.wav|1257|Under the action of internal agencies rocks of all kinds may be rendered harder, more firmly cemented, and more crystalline.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/3314/138053/3314_138053_000036_000010.wav|707|Come, senor governor, get up, and come and enjoy the victory, and divide the spoils that have been won from the foe by the might of that invincible arm."
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/6251/63840/6251_63840_000010_000005.wav|1494|He was a young man of great self control.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/5355/35477/5355_35477_000030_000000.wav|1247|Joyce, with her hands filled with the yellow wild flowers, stood looking around her, singing the old rhyme, the song that she had taught the baby to sing before he could talk plainly:
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/MEAD/W023/audio/contempt/level_3/MEAD-W023-audio-contempt-level_3-025.wav|2425|No price is too high when true love is at stake
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/6281/65531/6281_65531_000038_000007.wav|1500|I told her all the Greenvale news and gossip and everything else I thought she'd like to hear.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/8587/295533/8587_295533_000024_000014.wav|2182|He destroyed our crops, and burned our lodges.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-100/2436/2476/2436_2476_000016_000003.wav|472|We were well on our course to Mars.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-100/446/123502/446_123502_000013_000001.wav|1016|It was constructed of gleaming white marble inlaid with gold and brilliant stones which sparkled and scintillated in the sunlight.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/92/6488/92_6488_000008_000002.wav|2260|The failing light told her that he was not one of her late protectors.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/402/125880/402_125880_000045_000000.wav|895|The Manager, when introducing him to the public, added these words:
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-100/5778/12761/5778_12761_000012_000002.wav|1348|He came in, and sitting down by the fire, began to tell us where he had been.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/8215/275211/8215_275211_000071_000000.wav|2082|"Well, by gummy, it isn't his head either!" cried john.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/5886/27508/5886_27508_000030_000000.wav|1376|'Take your own way,' I said, 'but I wouldn't chance her.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/6875/76999/6875_76999_000061_000000.wav|1666|"Thank you, sir," said Hutchings, and with a sigh of relief he left the room.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/7879/274163/7879_274163_000011_000000.wav|1979|"Your highness sent for me?" repeated Raoul.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/1746/143015/1746_143015_000012_000002.wav|255|Nature took the foundling to her broader breast.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/6807/106437/6807_106437_000010_000003.wav|1654|She had a long (that is, long for such a tiny creature), slender, pointed hollow beak or sucking tube, which she thrust right into the tender orange leaf, and through which she sucked up the rich sap or juice which kept flowing into the leaf from the twig it hung on.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/1025/92820/1025_92820_000027_000001.wav|7|"You don't know Marian-of course.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/3681/96617/3681_96617_000087_000000.wav|802|No reply.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/MEAD/W025/audio/surprised/level_1/MEAD-W025-audio-surprised-level_1-001.wav|2427|She had your dark suit in greasy wash water all year
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/4836/26485/4836_26485_000010_000005.wav|1108|But, in the mean time, he was informed with what a curse his father had forbidden them to taste any thing before sun setting: so he left off eating, and said his father had not done well in this prohibition, because, had they taken some food, they had pursued the enemy with greater rigor and alacrity, and had both taken and slain many more of their enemies.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/7510/282529/7510_282529_000051_000000.wav|1871|"You see nothing happens to me," she said.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/7510/282528/7510_282528_000015_000001.wav|1871|"It catches in the branches so that it hurts."
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/2297/174934/2297_174934_000034_000001.wav|438|You don't believe in friendship, then?"
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/778/126734/778_126734_000025_000002.wav|1945|She noticed two men coming out of the station after the uptrain had gone on," he continued slowly.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/6519/69412/6519_69412_000014_000001.wav|1570|They have instincts of curiosity like the rest of us.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-100/6078/54013/6078_54013_000066_000000.wav|1434|"I like your story, holy sir," said the Blacksmith who made Death sit in a pear tree.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/8071/110067/8071_110067_000006_000001.wav|2039|The former should be accompanied by one or two other married ladies, and the latter by their mother, or by a lady to represent her.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/7354/87667/7354_87667_000020_000000.wav|1828|"A woman-me?
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/258/121528/258_121528_000024_000000.wav|516|Telemachus said, "I will answer you quite truly.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/7832/114468/7832_114468_000051_000003.wav|1967|It ain't no place for health just at this time."
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/6030/57827/6030_57827_000019_000001.wav|1419|In April, eighteen fifty eight, exactly six years after his arrival at Calcutta, he turned over his duties of Deputy Assistant Quartermaster General to his successor-though much against his will.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/1681/142313/1681_142313_000014_000000.wav|229|Margaret shut herself up in her own room, after she had quitted mrs Thornton.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/215/122798/215_122798_000075_000000.wav|390|What did the Snowdrops say?
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/8753/297948/8753_297948_000022_000000.wav|2216|"Well, I haven't my swimming shoes on," objected mr Cock a Doodle.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/1171/130776/1171_130776_000027_000007.wav|59|If I had such a memory as Benwick, I could bring you fifty quotations in a moment on my side the argument, and I do not think I ever opened a book in my life which had not something to say upon woman's inconstancy.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0012/Happy/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0012-Happy-0012_000705.wav|2380|Clear than clear water!
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/4085/11515/4085_11515_000016_000000.wav|913|I was twenty five years of age that May evening of twenty twenty when they sent me south into the Lowlands.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/3033/138641/3033_138641_000010_000002.wav|625|He was here late last night, and he saw you.'
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/8848/293957/8848_293957_000050_000001.wav|2238|Who killed Sir Simon?"
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/7795/105407/7795_105407_000001_000002.wav|1952|She had abandoned all hope of saving him: she saw him gradually hemmed in on all sides, and, in despair, she gazed round her into the darkness, and wondered whence he would presently come, to fall into the death trap which his relentless enemy had prepared for him.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/6051/54419/6051_54419_000011_000007.wav|1424|mrs Hamilton was divided between shame at the clothes of some of the women and delight with the music.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/614/12876/614_12876_000073_000003.wav|1461|He isn't half so foolish as he looks, either.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-100/6272/70171/6272_70171_000024_000000.wav|1498|Mother tried in vain to look hard hearted, and to persuade that it was good for me, but she lost her appetite, with the thought of losing me, which the mention of dr Price brought home.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/58/121081/58_121081_000006_000001.wav|1354|"Gentlemen," he said, "you will admit that, when arrived at a certain degree of fortune, the superfluities of life are all that can be desired; and the ladies will allow that, after having risen to a certain eminence of position, the ideal alone can be more exalted.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/978/132494/978_132494_000059_000000.wav|2282|"Why, is it the bourgeois disgrace you are afraid of?
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/7134/67200/7134_67200_000019_000012.wav|1746|Caniche snatched up the breeches, and away he flew.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/6883/66623/6883_66623_000016_000002.wav|1671|Mukoki called attention to these symptoms with a gloating satisfaction.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/2712/3536/2712_3536_000018_000002.wav|544|If Teresa is angry, I'll tell her that we left the garden at nine o'clock; then I'll show her my watch."
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/3615/14677/3615_14677_000044_000000.wav|784|Season three pounds of veal with salt, pepper and lemon juice.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/MEAD/W035/audio/angry/level_3/MEAD-W035-audio-angry-level_3-014.wav|2432|Right now may not be the best time for business mergers
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/727/124443/727_124443_000062_000001.wav|1795|"May I come?" said Harker.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/MEAD/W028/audio/happy/level_1/MEAD-W028-audio-happy-level_1-013.wav|2429|The oasis was a mirage
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/3274/163518/3274_163518_000124_000001.wav|698|So the Master Thief lived well and happily from that time forward.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/3967/292604/3967_292604_000004_000001.wav|873|The fog was still thick about the house, so that hardly a glimmer of light came from the window.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/1784/142294/1784_142294_000029_000002.wav|275|If I think of it at all, I connect it with my son, and feel how all belongs to him, and that his is the head that directs it.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/5719/233361/5719_233361_000004_000006.wav|1329|He showed no effeminacy in his preferences for games or work.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/MEAD/W019/audio/happy/level_1/MEAD-W019-audio-happy-level_1-007.wav|2423|They used an aggressive policeman to flag thoughtless motorists
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/666/11243/666_11243_000082_000001.wav|1607|A licensed auctioneer was brought, and the sale commenced.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/3657/182397/3657_182397_000020_000002.wav|796|Once peter opened his mouth to ask why, but remembered in time and closed it again without making a sound.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/CREMA-D/AudioWAV/CREMA-D-AudioWAV-1091_IEO_ANG_LO.wav|2378|It's eleven o'clock
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/4196/23955/4196_23955_000003_000010.wav|942|He had sent his wagons in advance, and Stanley had gone with them with two divisions to protect them.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/MEAD/W014/audio/sad/level_3/MEAD-W014-audio-sad-level_3-028.wav|2418|No the man was not drunk he wondered how he got tied up with this stranger
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/8631/281208/8631_281208_000005_000002.wav|2192|This looked severe, and convinced them that the governor was in earnest; however, they had no way left them but accept it, and it was now the business of the prisoners, as much as of the captain, to persuade the other five to do their duty.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0012/Surprise/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0012-Surprise-0012_001457.wav|2380|Hannibal come to see you.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-100/2436/2481/2436_2481_000010_000000.wav|472|"There's been an accident!
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/CREMA-D/AudioWAV/CREMA-D-AudioWAV-1038_IWL_ANG_XX.wav|2325|I would like a new alarm clock
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/404/132015/404_132015_000044_000000.wav|901|"How do you expect him to answer you all at once?" said Prince Andrew.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/8033/284029/8033_284029_000016_000004.wav|2027|The treaty was conducted with perfect order, and concluded to the satisfaction of both parties.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/4592/22179/4592_22179_000039_000003.wav|1047|I will call round in case you have any commissions for me," said he, standing before Princess Mary and turning red, but not taking his departure.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/1097/136910/1097_136910_000025_000000.wav|37|'My dear,' said the old gentleman.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/6233/36633/6233_36633_000062_000000.wav|1488|This is the substance of the account I gave Captain Nemo.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/2730/154436/2730_154436_000066_000000.wav|548|"Well, then," said Cuthbert, between kisses, "since you are now rich and your own mistress-not that I care about the money-why not marry me at once?"
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/2607/87140/2607_87140_000015_000004.wav|525|Some murderous force had entered that room, and passed out of it again, leaving the door barred, bolted, and locked upon the inside.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/5412/39899/5412_39899_000063_000001.wav|1259|So I said: "It would be useless.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/8799/270794/8799_270794_000014_000007.wav|2228|Most of us, for instance, experience a feeling of repulsion in the presence of a snake.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/313/122804/313_122804_000020_000002.wav|654|And who has helped you?"
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/3665/8589/3665_8589_000004_000003.wav|799|Passing along a short landing, the young man began the ascent of the second flight.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/1571/141320/1571_141320_000008_000000.wav|188|"The copies, the copies," said I hurriedly.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/56/1730/56_1730_000014_000001.wav|1296|And the most awful thing about it is that it's all my fault-all my fault, though I'm not to blame.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/7398/98878/7398_98878_000016_000002.wav|1841|Would that in this respect the ancient darkness might yield to the new light.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/58/121075/58_121075_000105_000003.wav|1354|We separated at midnight. I could not defer my pleasure, so I took a cabriolet and drove to the horse dealer's.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/770/131704/770_131704_000012_000012.wav|1920|Within a score of years telegraph wires covered the whole occupied country with a network, and the first great electrical industry was a pronounced success, yielding to its pioneers the first great harvest of electrical fortunes.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/7073/83692/7073_83692_000013_000000.wav|1725|Hughes placed the bottle on the table.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/2229/152864/2229_152864_000034_000000.wav|409|"Nay, now you talk foolishly!
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/2751/142363/2751_142363_000005_000005.wav|555|It was necessary to Arthur, you perceive, to be satisfied with himself.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/CREMA-D/AudioWAV/CREMA-D-AudioWAV-1055_ITS_HAP_XX.wav|2342|I think I've seen this before
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/3848/37389/3848_37389_000003_000007.wav|838|Before him Pedro, lifting his feet alternately, swayed to and fro sideways-his usual attitude of expectation.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-100/460/172359/460_172359_000042_000000.wav|1053|In another fortnight they shoved her, the same unscrupulous crowd, down to nine cents, and Jefferson still held on.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/2748/160959/2748_160959_000029_000000.wav|554|The Prince thanked her, and having bidden her a sorrowful farewell, mounted his wooden steed and rode away.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/480/127525/480_127525_000014_000000.wav|1098|"Look astern, doctor," replied the captain.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/16/122827/16_122827_000010_000003.wav|196|And I'll be sure to say 'I seen.' I haven't often said it since Miss Stacy taught here; but in moments of excitement it's sure to pop out.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/3851/9210/3851_9210_000099_000001.wav|839|Why, if they were to guillotine me for it, I-"
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/MESS compressed/MESS compressed-CM3M16_SCR.wav|2442|Michael discussed the hit and the plan today
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Angry/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013-Angry-0013_000391.wav|2381|I chose the right way.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-100/8629/261139/8629_261139_000039_000001.wav|2190|I want hundreds-thousands-now, now, to save myself! Disgrace, shame, prison await me if I don't have them.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/984/137141/984_137141_000021_000001.wav|2286|There will probably be a general impression that the man who landed (armed to the teeth and talking by signs) to plant the British flag on that barbaric temple which turned out to be the Pavilion at Brighton, felt rather a fool. I am not here concerned to deny that he looked a fool.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-100/8051/295385/8051_295385_000009_000000.wav|2032|In the preceding chapter we have spoken of the founding of Fort Casimir, and of the merciless warfare waged by its commander upon cabbages, sunflowers, and pumpkins, for want of better occasion to flesh his sword. Now it came to pass that higher up the Delaware, at his stronghold of Tinnekonk, resided one Jan Printz, who styled himself Governor of New Sweden.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/MESS compressed/MESS compressed-AM3M11_SCR.wav|2442|Michael discussed the dump and the handle today
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/3144/166428/3144_166428_000003_000001.wav|661|The split air shrieked and shrilled, a keening barrier against the avalanche of the thunder.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/2407/7667/2407_7667_000006_000008.wav|466|I got my gun ready but did not stir, and looked out.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0019-Happy-0019_000883.wav|2387|Fresh pain seized Paul's body.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/MEAD/W028/audio/surprised/level_3/MEAD-W028-audio-surprised-level_3-020.wav|2429|He further proposed grants of an unspecified sum for experimental Hospitals
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/8113/117384/8113_117384_000011_000001.wav|2053|As he trilled forth his tender caressing strain, the heart of the listening woman translated as did that of the brooding bird.
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/MEAD/W019/audio/happy/level_1/MEAD-W019-audio-happy-level_1-011.wav|2423|That noise problem grows more annoying each day
-/data1/pmy/jlpro/EI_VC/data/raw/ei_data/CREMA-D/AudioWAV/CREMA-D-AudioWAV-1030_ITH_SAD_XX.wav|2317|I think I have a doctor's appointment
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-other-500/8215/275211/8215_275211_000042_000000.wav|2082|"We didn't cross any such brook as this on our way up!" john exclaimed.
-/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/train-clean-360/4967/28868/4967_28868_000020_000000.wav|1142|"No;--no!
+data/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Neutral/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013-Neutral-0013_000237.wav|2381|What would they do at the end of the year?
+data/LibriTTS/train-clean-360/240/160592/240_160592_000035_000000.wav|462|Mirth is the mail of anguish, In which it cautions arm, Lest anybody spy the blood And "You're hurt" exclaim!
+data/LibriTTS/train-clean-360/2010/121416/2010_121416_000087_000000.wav|343|"Ah, Monsieur Mazarin, Monsieur Mazarin," said Rochefort, leading off his curate, who had not found an opportunity of uttering a single word during the foregoing dialogue, "you will see whether I am too old to be a man of action."
+data/LibriTTS/train-other-500/6689/64286/6689_64286_000074_000003.wav|1618|To make either possible, you must convert her, too.
+data/LibriTTS/train-clean-100/1069/133699/1069_133699_000004_000003.wav|26|This contribution to the discussion, however, Miss Stackpole rejected with scorn.
+data/LibriTTS/train-other-500/1767/142932/1767_142932_000004_000002.wav|266|I do hope he is going to stay here.
+data/LibriTTS/train-other-500/4005/14905/4005_14905_000009_000002.wav|886|Brian was one of his best dogs, but he was not very large, as he only stood just over thirty inches at the shoulder.
+data/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0020/Happy/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0020-Happy-0020_000947.wav|2388|She and i are running a neck and neck race.
+data/LibriTTS/train-other-500/2606/132102/2606_132102_000069_000003.wav|524|But I think the secret was that Katy didn't "manage," but tried to be always kind and loving, and considerate of Phil's feelings.
+data/LibriTTS/train-other-500/6747/76145/6747_76145_000024_000001.wav|1637|The same unerodable metal seemed to have been used throughout the whole affair.
+data/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0017/Neutral/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0017-Neutral-0017_000340.wav|2385|So Tom saw night as it were broad daylight.
+data/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Neutral/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0016-Neutral-0016_000166.wav|2384|They ate beef at the butcher shop.
+data/LibriTTS/train-other-500/585/294811/585_294811_000019_000011.wav|1367|Ginger cordial.
+data/LibriTTS/train-other-500/6735/284431/6735_284431_000039_000001.wav|1633|There were several of these gates, and from their recesses stone steps led to the top of the wall.
+data/LibriTTS/train-other-500/705/167610/705_167610_000035_000000.wav|1715|"Ah... a wonderful, a matchless people!" said Kutuzov; and he closed his eyes and swayed his head.
+data/LibriTTS/train-clean-360/4535/279852/4535_279852_000040_000000.wav|1034|It was nearly six o'clock when they reached the little town of Judson.
+data/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Angry/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018-Angry-0018_000402.wav|2386|From August eighteenth, of their divorce.
+data/LibriTTS/train-clean-360/7868/110706/7868_110706_000012_000001.wav|1976|This, however, relieved his thirst; an hour's repose recruited his hardy frame, and, with the indomitable spirit of avarice, he resumed his laborious journey.
+data/LibriTTS/train-clean-360/7994/258960/7994_258960_000023_000003.wav|2013|Such instances were numerous in the Middle Ages in the renting of land, and still are found in many countries.
+data/LibriTTS/train-other-500/4321/27567/4321_27567_000003_000002.wav|978|So, after a month or two, Gluck grew tired and made up his mind to go and try his fortune with the Golden River.
+data/LibriTTS/train-other-500/3021/121440/3021_121440_000012_000000.wav|621|"I begin to think so, particularly if you have not forgotten a certain signal."
+data/LibriTTS/train-other-500/8291/276745/8291_276745_000014_000000.wav|2100|First, the organization of the army.
+data/LibriTTS/train-clean-360/2812/160187/2812_160187_000001_000006.wav|569|But now, Full grown to man, acknowledged, as I hear, By john the Baptist, and in public shewn, Son owned from Heaven by his Father's voice, I looked for some great change.
+data/ei_data/MEAD/W040/audio/angry/level_3/MEAD-W040-audio-angry-level_3-003.wav|2436|Will you tell me why
+data/LibriTTS/train-clean-360/6395/86708/6395_86708_000039_000001.wav|1537|Have you that means?"
+data/LibriTTS/train-clean-360/6918/61317/6918_61317_000028_000002.wav|1681|"Among the ancients", wrote Professor Robertson Smith, "blood is generally conceived as the principle or vehicle of life, and so the account often given of sacred waters is that the blood of the deity flows in them.
+data/LibriTTS/train-other-500/7096/80685/7096_80685_000054_000000.wav|1733|'Perhaps you were one of the swallows who sang to me in the summer,' said she.
+data/LibriTTS/train-other-500/5101/67854/5101_67854_000024_000002.wav|1180|Now and then a dark figure went along the street.
+data/LibriTTS/train-other-500/2351/151965/2351_151965_000001_000000.wav|449|Maggie Tries to Run away from Her Shadow
+data/LibriTTS/train-other-500/4959/28865/4959_28865_000039_000000.wav|1139|"It is, sir, because he understands it."
+data/LibriTTS/train-other-500/778/126734/778_126734_000048_000000.wav|1945|"Doubtless," was the answer; "but there's no time like the present, believe me.
+data/LibriTTS/train-clean-360/8176/115046/8176_115046_000017_000000.wav|2070|"Then won't you or some of us, have to be listening all the while?"
+data/LibriTTS/train-clean-100/4340/15220/4340_15220_000063_000001.wav|983|I'd like to see her walking eight miles.
+data/LibriTTS/train-other-500/7337/92819/7337_92819_000041_000001.wav|1822|She offered General Kitchener some jam on a cracker; but he only looked at her as the sphinx would have looked at a butterfly-if there are butterflies in the desert.
+data/LibriTTS/train-other-500/5361/27492/5361_27492_000072_000000.wav|1248|'Of the Marston brothers, the elder one, Richard, would seem to have been similarly apprised, but james Marston was arrested in his cottage in Specimen Gully.
+data/LibriTTS/train-clean-360/4438/48525/4438_48525_000005_000001.wav|1009|But Lucy in such matters was content to follow him, aware of her want of experience and of the abundance of his, and the thought that was worrying her only had to do with a waiter.
+data/LibriTTS/train-other-500/167/15255/167_15255_000018_000003.wav|223|I became unconscious; I didn't know what became of me for a day or two.
+data/LibriTTS/train-other-500/4936/64719/4936_64719_000028_000001.wav|1133|I have emptied a cask of wine already, but it was just like a drop of water on a hot stone."
+data/LibriTTS/train-other-500/3488/65654/3488_65654_000043_000001.wav|751|I think the manager believed me to be a detective, for he was most courteous, and ready to give me all information.
+data/LibriTTS/train-other-500/4161/185349/4161_185349_000030_000006.wav|933|I only wish to indicate the true position of nature in regard to man, wherein to establish man, all right education tends; as the ground which to attain is the object of human life, that is, of man's connection with nature.
+data/LibriTTS/train-clean-360/119/129514/119_129514_000006_000002.wav|67|It was pointed at an angle of ninety degrees, and suspended upon truncheons, so that the president could balance himself upon it as upon a rocking chair, a very agreeable fact in the very hot weather.
+data/LibriTTS/train-other-500/161/121898/161_121898_000035_000000.wav|200|'Then we can safely conclude, also, that God's essence is seated in absolute good, and nowhere else.'
+data/LibriTTS/train-other-500/7848/275149/7848_275149_000004_000000.wav|1973|"There's nothing to be surprised at, mrs Presty.
+data/LibriTTS/train-other-500/8631/283727/8631_283727_000063_000002.wav|2192|Make for the gate."
+data/LibriTTS/train-other-500/4218/41159/4218_41159_000038_000005.wav|949|I must have everything out with you."
+data/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0016/Happy/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0016-Happy-0016_000923.wav|2384|Pick, pick, pick!
+data/LibriTTS/train-other-500/923/132307/923_132307_000139_000001.wav|2264|"Of course it's awfully fascinating!" she cried. "peter, would you teach john and Michael to fly too?"
+data/LibriTTS/train-other-500/4090/183977/4090_183977_000015_000002.wav|916|She had no literary or historic associations to which to attach her impressions: her education had evidently not comprised a course in Greek literature.
+data/LibriTTS/train-other-500/4313/9936/4313_9936_000010_000005.wav|976|"He operated on me for a cataract," he said.
+data/LibriTTS/train-clean-360/7398/98876/7398_98876_000001_000001.wav|1841|I mean erysipelas of new born infants, which commences at the genital organs, thence spreads over the skin, and terminates in the induration and destruction of this organ.
+data/LibriTTS/train-clean-360/7484/39971/7484_39971_000012_000002.wav|1862|It is the condition of our having aims.
+data/LibriTTS/train-clean-100/1926/147987/1926_147987_000014_000010.wav|315|She spent the whole morning bathing and poulticing me, and rubbing me with arnica.
+data/LibriTTS/train-other-500/4703/73029/4703_73029_000010_000001.wav|1069|"Blessed be the name of the Lord," continued Lady Clavering.
+data/LibriTTS/train-clean-100/7800/283492/7800_283492_000030_000002.wav|1956|I'd like to know how you figure that out, Frank."
+data/LibriTTS/train-other-500/5893/54391/5893_54391_000044_000000.wav|1379|No wonder, indeed, that Miss Flora was quite breathless with it all.
+data/LibriTTS/train-other-500/7391/60445/7391_60445_000011_000000.wav|1838|Going home, he told his mother and her servants what he had done, and they went to see, and marvelled that he could catch such fleet creatures as the wild red deer.
+data/LibriTTS/train-clean-100/1116/137572/1116_137572_000004_000002.wav|45|These traits cannot be changed overnight.
+data/LibriTTS/train-clean-100/8465/246947/8465_246947_000041_000003.wav|2154|No, Helen; when I trust, I trust out and out."
+data/LibriTTS/train-other-500/4156/12351/4156_12351_000061_000000.wav|931|So I said to hell with that and the next time I saw George Crowley I told him the story and George said, "We don't use synthetic flavor, alfalfa or anything like that."
+data/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Surprise/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013-Surprise-0013_001695.wav|2381|I know how to obey orders.
+data/ei_data/MEAD/M029/audio/happy/level_1/MEAD-M029-audio-happy-level_1-012.wav|2404|Project development was proceeding too slowly
+data/LibriTTS/train-clean-100/8580/287363/8580_287363_000028_000000.wav|2181|"Well, I predict that we will have a bad storm," insisted mr Parker, and Tom could not help wishing that the scientist would keep his gloomy forebodings to himself.
+data/LibriTTS/train-clean-360/6763/74797/6763_74797_000005_000002.wav|1643|Ellen Terry's acting, the Royal Academy Exhibition, private theatricals, and twenty things besides, but they all seemed unsuitable subjects to start conversation with in this case.
+data/LibriTTS/train-other-500/1985/144468/1985_144468_000128_000000.wav|330|'Steerforth! won't you speak to me?'
+data/LibriTTS/train-clean-360/4222/12898/4222_12898_000002_000002.wav|950|The farming operations had gone on regularly, but the men always worked with their rifles ready to their hand.
+data/ei_data/MEAD/M013/audio/fear/level_2/MEAD-M013-audio-fear-level_2-024.wav|2395|Land based radar would help with this task
+data/LibriTTS/train-clean-360/2229/152864/2229_152864_000007_000004.wav|409|I began to lose sight of the lean, long coated figure, and at length could no more hear his swishing stride through the heather. But then I heard instead the slow flapping wings of the raven; and, at intervals, now a firefly, now a gleaming butterfly rose into the rayless air.
+data/LibriTTS/train-clean-360/6339/65554/6339_65554_000064_000004.wav|1514|Play acting hadn't spoiled her-couldn't spoil her.
+data/LibriTTS/train-other-500/2351/151965/2351_151965_000002_000002.wav|449|No! she would run away and go to the gypsies, and Tom should never see her any more.
+data/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0014/Neutral/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0014-Neutral-0014_000264.wav|2382|Slam the doors and wedge them!
+data/LibriTTS/train-clean-360/1752/16632/1752_16632_000076_000003.wav|259|Then he poked the object with his stick.
+data/LibriTTS/train-other-500/4005/7262/4005_7262_000006_000001.wav|886|I lifted my head.
+data/LibriTTS/train-other-500/923/132306/923_132306_000083_000001.wav|2264|"What fun!" he said doubtfully, and they did not dare expose him when mrs Darling and Nana returned.
+data/LibriTTS/train-other-500/4280/185518/4280_185518_000008_000001.wav|969|Rather too large a sum to keep locked up in a casket, the reader will confess!
+data/LibriTTS/train-clean-360/7594/81881/7594_81881_000020_000002.wav|1895|It was but the final artistic touch to this comedy of mockery of which he had been the victim....
+data/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0018/Neutral/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0018-Neutral-0018_000141.wav|2386|Can I lodge here tonight?
+data/LibriTTS/train-clean-100/1867/154071/1867_154071_000041_000005.wav|298|Bill, what that girl told you didn't come out of her own head.
+data/LibriTTS/train-clean-100/1246/124548/1246_124548_000004_000001.wav|81|But it proved that mr Bert Tybee, the former bartender, desired the postmastership.
+data/LibriTTS/train-clean-360/3370/163384/3370_163384_000046_000009.wav|723|I reckon I'd better put 'em on, but I'd ruther not, it's so warm.
+data/LibriTTS/train-other-500/1757/128103/1757_128103_000002_000000.wav|262|(Pall Mall Gazette, november tenth eighteen eighty six.)
+data/LibriTTS/train-other-500/4280/185518/4280_185518_000015_000000.wav|969|"What is the state of affairs about the necklace," asked the lady.
+data/LibriTTS/train-other-500/791/127519/791_127519_000032_000001.wav|1988|"You wish us to keep this matter dark and to make a garrison of the stern part of the ship, manned with my friend's own people, and provided with all the arms and powder on board.
+data/LibriTTS/train-other-500/3871/693/3871_693_000018_000010.wav|846|They don't explore such depths once in their lives.
+data/LibriTTS/train-clean-360/5883/59268/5883_59268_000034_000000.wav|1375|We soon reached the place appointed for the shooting match.
+data/LibriTTS/train-other-500/6749/74575/6749_74575_000014_000002.wav|1638|I might have drawn black Lines with a Pen, but the Threds were smaller and better defined.
+data/LibriTTS/train-other-500/7238/107675/7238_107675_000010_000004.wav|1779|The poor Brahmani was very thankful.
+data/LibriTTS/train-clean-360/7128/84121/7128_84121_000049_000000.wav|1743|There were times when she felt, as she expressed it to her mother, as if she had been dining off beef essence and oxygen.
+data/LibriTTS/train-clean-360/3914/10089/3914_10089_000019_000000.wav|859|"You admitted it months ago, when I spoke of it to you as of something you were afraid I should find out.
+data/LibriTTS/train-clean-360/6378/61780/6378_61780_000022_000003.wav|1532|He remained in shadow, to have a better view of what was passing under the sunlight.
+data/LibriTTS/train-other-500/7640/104647/7640_104647_000051_000000.wav|1904|Tad's left hand joined his right in closing over his adversary's wrist.
+data/LibriTTS/train-clean-360/4111/184448/4111_184448_000051_000002.wav|921|I was glad myself.
+data/LibriTTS/train-clean-360/5401/39508/5401_39508_000003_000000.wav|1257|Under the action of internal agencies rocks of all kinds may be rendered harder, more firmly cemented, and more crystalline.
+data/LibriTTS/train-other-500/3314/138053/3314_138053_000036_000010.wav|707|Come, senor governor, get up, and come and enjoy the victory, and divide the spoils that have been won from the foe by the might of that invincible arm."
+data/LibriTTS/train-other-500/6251/63840/6251_63840_000010_000005.wav|1494|He was a young man of great self control.
+data/LibriTTS/train-other-500/5355/35477/5355_35477_000030_000000.wav|1247|Joyce, with her hands filled with the yellow wild flowers, stood looking around her, singing the old rhyme, the song that she had taught the baby to sing before he could talk plainly:
+data/ei_data/MEAD/W023/audio/contempt/level_3/MEAD-W023-audio-contempt-level_3-025.wav|2425|No price is too high when true love is at stake
+data/LibriTTS/train-other-500/6281/65531/6281_65531_000038_000007.wav|1500|I told her all the Greenvale news and gossip and everything else I thought she'd like to hear.
+data/LibriTTS/train-other-500/8587/295533/8587_295533_000024_000014.wav|2182|He destroyed our crops, and burned our lodges.
+data/LibriTTS/train-clean-100/2436/2476/2436_2476_000016_000003.wav|472|We were well on our course to Mars.
+data/LibriTTS/train-clean-100/446/123502/446_123502_000013_000001.wav|1016|It was constructed of gleaming white marble inlaid with gold and brilliant stones which sparkled and scintillated in the sunlight.
+data/LibriTTS/train-other-500/92/6488/92_6488_000008_000002.wav|2260|The failing light told her that he was not one of her late protectors.
+data/LibriTTS/train-other-500/402/125880/402_125880_000045_000000.wav|895|The Manager, when introducing him to the public, added these words:
+data/LibriTTS/train-clean-100/5778/12761/5778_12761_000012_000002.wav|1348|He came in, and sitting down by the fire, began to tell us where he had been.
+data/LibriTTS/train-other-500/8215/275211/8215_275211_000071_000000.wav|2082|"Well, by gummy, it isn't his head either!" cried john.
+data/LibriTTS/train-other-500/5886/27508/5886_27508_000030_000000.wav|1376|'Take your own way,' I said, 'but I wouldn't chance her.
+data/LibriTTS/train-other-500/6875/76999/6875_76999_000061_000000.wav|1666|"Thank you, sir," said Hutchings, and with a sigh of relief he left the room.
+data/LibriTTS/train-other-500/7879/274163/7879_274163_000011_000000.wav|1979|"Your highness sent for me?" repeated Raoul.
+data/LibriTTS/train-other-500/1746/143015/1746_143015_000012_000002.wav|255|Nature took the foundling to her broader breast.
+data/LibriTTS/train-other-500/6807/106437/6807_106437_000010_000003.wav|1654|She had a long (that is, long for such a tiny creature), slender, pointed hollow beak or sucking tube, which she thrust right into the tender orange leaf, and through which she sucked up the rich sap or juice which kept flowing into the leaf from the twig it hung on.
+data/LibriTTS/train-clean-360/1025/92820/1025_92820_000027_000001.wav|7|"You don't know Marian-of course.
+data/LibriTTS/train-other-500/3681/96617/3681_96617_000087_000000.wav|802|No reply.
+data/ei_data/MEAD/W025/audio/surprised/level_1/MEAD-W025-audio-surprised-level_1-001.wav|2427|She had your dark suit in greasy wash water all year
+data/LibriTTS/train-other-500/4836/26485/4836_26485_000010_000005.wav|1108|But, in the mean time, he was informed with what a curse his father had forbidden them to taste any thing before sun setting: so he left off eating, and said his father had not done well in this prohibition, because, had they taken some food, they had pursued the enemy with greater rigor and alacrity, and had both taken and slain many more of their enemies.
+data/LibriTTS/train-other-500/7510/282529/7510_282529_000051_000000.wav|1871|"You see nothing happens to me," she said.
+data/LibriTTS/train-other-500/7510/282528/7510_282528_000015_000001.wav|1871|"It catches in the branches so that it hurts."
+data/LibriTTS/train-other-500/2297/174934/2297_174934_000034_000001.wav|438|You don't believe in friendship, then?"
+data/LibriTTS/train-other-500/778/126734/778_126734_000025_000002.wav|1945|She noticed two men coming out of the station after the uptrain had gone on," he continued slowly.
+data/LibriTTS/train-clean-360/6519/69412/6519_69412_000014_000001.wav|1570|They have instincts of curiosity like the rest of us.
+data/LibriTTS/train-clean-100/6078/54013/6078_54013_000066_000000.wav|1434|"I like your story, holy sir," said the Blacksmith who made Death sit in a pear tree.
+data/LibriTTS/train-other-500/8071/110067/8071_110067_000006_000001.wav|2039|The former should be accompanied by one or two other married ladies, and the latter by their mother, or by a lady to represent her.
+data/LibriTTS/train-other-500/7354/87667/7354_87667_000020_000000.wav|1828|"A woman-me?
+data/LibriTTS/train-clean-360/258/121528/258_121528_000024_000000.wav|516|Telemachus said, "I will answer you quite truly.
+data/LibriTTS/train-clean-360/7832/114468/7832_114468_000051_000003.wav|1967|It ain't no place for health just at this time."
+data/LibriTTS/train-other-500/6030/57827/6030_57827_000019_000001.wav|1419|In April, eighteen fifty eight, exactly six years after his arrival at Calcutta, he turned over his duties of Deputy Assistant Quartermaster General to his successor-though much against his will.
+data/LibriTTS/train-other-500/1681/142313/1681_142313_000014_000000.wav|229|Margaret shut herself up in her own room, after she had quitted mrs Thornton.
+data/LibriTTS/train-other-500/215/122798/215_122798_000075_000000.wav|390|What did the Snowdrops say?
+data/LibriTTS/train-other-500/8753/297948/8753_297948_000022_000000.wav|2216|"Well, I haven't my swimming shoes on," objected mr Cock a Doodle.
+data/LibriTTS/train-other-500/1171/130776/1171_130776_000027_000007.wav|59|If I had such a memory as Benwick, I could bring you fifty quotations in a moment on my side the argument, and I do not think I ever opened a book in my life which had not something to say upon woman's inconstancy.
+data/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0012/Happy/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0012-Happy-0012_000705.wav|2380|Clear than clear water!
+data/LibriTTS/train-other-500/4085/11515/4085_11515_000016_000000.wav|913|I was twenty five years of age that May evening of twenty twenty when they sent me south into the Lowlands.
+data/LibriTTS/train-other-500/3033/138641/3033_138641_000010_000002.wav|625|He was here late last night, and he saw you.'
+data/LibriTTS/train-clean-360/8848/293957/8848_293957_000050_000001.wav|2238|Who killed Sir Simon?"
+data/LibriTTS/train-other-500/7795/105407/7795_105407_000001_000002.wav|1952|She had abandoned all hope of saving him: she saw him gradually hemmed in on all sides, and, in despair, she gazed round her into the darkness, and wondered whence he would presently come, to fall into the death trap which his relentless enemy had prepared for him.
+data/LibriTTS/train-other-500/6051/54419/6051_54419_000011_000007.wav|1424|mrs Hamilton was divided between shame at the clothes of some of the women and delight with the music.
+data/LibriTTS/train-other-500/614/12876/614_12876_000073_000003.wav|1461|He isn't half so foolish as he looks, either.
+data/LibriTTS/train-clean-100/6272/70171/6272_70171_000024_000000.wav|1498|Mother tried in vain to look hard hearted, and to persuade that it was good for me, but she lost her appetite, with the thought of losing me, which the mention of dr Price brought home.
+data/LibriTTS/train-other-500/58/121081/58_121081_000006_000001.wav|1354|"Gentlemen," he said, "you will admit that, when arrived at a certain degree of fortune, the superfluities of life are all that can be desired; and the ladies will allow that, after having risen to a certain eminence of position, the ideal alone can be more exalted.
+data/LibriTTS/train-other-500/978/132494/978_132494_000059_000000.wav|2282|"Why, is it the bourgeois disgrace you are afraid of?
+data/LibriTTS/train-clean-360/7134/67200/7134_67200_000019_000012.wav|1746|Caniche snatched up the breeches, and away he flew.
+data/LibriTTS/train-other-500/6883/66623/6883_66623_000016_000002.wav|1671|Mukoki called attention to these symptoms with a gloating satisfaction.
+data/LibriTTS/train-other-500/2712/3536/2712_3536_000018_000002.wav|544|If Teresa is angry, I'll tell her that we left the garden at nine o'clock; then I'll show her my watch."
+data/LibriTTS/train-clean-360/3615/14677/3615_14677_000044_000000.wav|784|Season three pounds of veal with salt, pepper and lemon juice.
+data/ei_data/MEAD/W035/audio/angry/level_3/MEAD-W035-audio-angry-level_3-014.wav|2432|Right now may not be the best time for business mergers
+data/LibriTTS/train-other-500/727/124443/727_124443_000062_000001.wav|1795|"May I come?" said Harker.
+data/ei_data/MEAD/W028/audio/happy/level_1/MEAD-W028-audio-happy-level_1-013.wav|2429|The oasis was a mirage
+data/LibriTTS/train-clean-360/3274/163518/3274_163518_000124_000001.wav|698|So the Master Thief lived well and happily from that time forward.
+data/LibriTTS/train-clean-360/3967/292604/3967_292604_000004_000001.wav|873|The fog was still thick about the house, so that hardly a glimmer of light came from the window.
+data/LibriTTS/train-other-500/1784/142294/1784_142294_000029_000002.wav|275|If I think of it at all, I connect it with my son, and feel how all belongs to him, and that his is the head that directs it.
+data/LibriTTS/train-other-500/5719/233361/5719_233361_000004_000006.wav|1329|He showed no effeminacy in his preferences for games or work.
+data/ei_data/MEAD/W019/audio/happy/level_1/MEAD-W019-audio-happy-level_1-007.wav|2423|They used an aggressive policeman to flag thoughtless motorists
+data/LibriTTS/train-clean-360/666/11243/666_11243_000082_000001.wav|1607|A licensed auctioneer was brought, and the sale commenced.
+data/LibriTTS/train-other-500/3657/182397/3657_182397_000020_000002.wav|796|Once peter opened his mouth to ask why, but remembered in time and closed it again without making a sound.
+data/ei_data/CREMA-D/AudioWAV/CREMA-D-AudioWAV-1091_IEO_ANG_LO.wav|2378|It's eleven o'clock
+data/LibriTTS/train-other-500/4196/23955/4196_23955_000003_000010.wav|942|He had sent his wagons in advance, and Stanley had gone with them with two divisions to protect them.
+data/ei_data/MEAD/W014/audio/sad/level_3/MEAD-W014-audio-sad-level_3-028.wav|2418|No the man was not drunk he wondered how he got tied up with this stranger
+data/LibriTTS/train-other-500/8631/281208/8631_281208_000005_000002.wav|2192|This looked severe, and convinced them that the governor was in earnest; however, they had no way left them but accept it, and it was now the business of the prisoners, as much as of the captain, to persuade the other five to do their duty.
+data/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0012/Surprise/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0012-Surprise-0012_001457.wav|2380|Hannibal come to see you.
+data/LibriTTS/train-clean-100/2436/2481/2436_2481_000010_000000.wav|472|"There's been an accident!
+data/ei_data/CREMA-D/AudioWAV/CREMA-D-AudioWAV-1038_IWL_ANG_XX.wav|2325|I would like a new alarm clock
+data/LibriTTS/train-other-500/404/132015/404_132015_000044_000000.wav|901|"How do you expect him to answer you all at once?" said Prince Andrew.
+data/LibriTTS/train-other-500/8033/284029/8033_284029_000016_000004.wav|2027|The treaty was conducted with perfect order, and concluded to the satisfaction of both parties.
+data/LibriTTS/train-clean-360/4592/22179/4592_22179_000039_000003.wav|1047|I will call round in case you have any commissions for me," said he, standing before Princess Mary and turning red, but not taking his departure.
+data/LibriTTS/train-other-500/1097/136910/1097_136910_000025_000000.wav|37|'My dear,' said the old gentleman.
+data/LibriTTS/train-clean-360/6233/36633/6233_36633_000062_000000.wav|1488|This is the substance of the account I gave Captain Nemo.
+data/LibriTTS/train-other-500/2730/154436/2730_154436_000066_000000.wav|548|"Well, then," said Cuthbert, between kisses, "since you are now rich and your own mistress-not that I care about the money-why not marry me at once?"
+data/LibriTTS/train-other-500/2607/87140/2607_87140_000015_000004.wav|525|Some murderous force had entered that room, and passed out of it again, leaving the door barred, bolted, and locked upon the inside.
+data/LibriTTS/train-other-500/5412/39899/5412_39899_000063_000001.wav|1259|So I said: "It would be useless.
+data/LibriTTS/train-other-500/8799/270794/8799_270794_000014_000007.wav|2228|Most of us, for instance, experience a feeling of repulsion in the presence of a snake.
+data/LibriTTS/train-other-500/313/122804/313_122804_000020_000002.wav|654|And who has helped you?"
+data/LibriTTS/train-other-500/3665/8589/3665_8589_000004_000003.wav|799|Passing along a short landing, the young man began the ascent of the second flight.
+data/LibriTTS/train-clean-360/1571/141320/1571_141320_000008_000000.wav|188|"The copies, the copies," said I hurriedly.
+data/LibriTTS/train-clean-360/56/1730/56_1730_000014_000001.wav|1296|And the most awful thing about it is that it's all my fault-all my fault, though I'm not to blame.
+data/LibriTTS/train-clean-360/7398/98878/7398_98878_000016_000002.wav|1841|Would that in this respect the ancient darkness might yield to the new light.
+data/LibriTTS/train-other-500/58/121075/58_121075_000105_000003.wav|1354|We separated at midnight. I could not defer my pleasure, so I took a cabriolet and drove to the horse dealer's.
+data/LibriTTS/train-clean-360/770/131704/770_131704_000012_000012.wav|1920|Within a score of years telegraph wires covered the whole occupied country with a network, and the first great electrical industry was a pronounced success, yielding to its pioneers the first great harvest of electrical fortunes.
+data/LibriTTS/train-other-500/7073/83692/7073_83692_000013_000000.wav|1725|Hughes placed the bottle on the table.
+data/LibriTTS/train-clean-360/2229/152864/2229_152864_000034_000000.wav|409|"Nay, now you talk foolishly!
+data/LibriTTS/train-clean-360/2751/142363/2751_142363_000005_000005.wav|555|It was necessary to Arthur, you perceive, to be satisfied with himself.
+data/ei_data/CREMA-D/AudioWAV/CREMA-D-AudioWAV-1055_ITS_HAP_XX.wav|2342|I think I've seen this before
+data/LibriTTS/train-other-500/3848/37389/3848_37389_000003_000007.wav|838|Before him Pedro, lifting his feet alternately, swayed to and fro sideways-his usual attitude of expectation.
+data/LibriTTS/train-clean-100/460/172359/460_172359_000042_000000.wav|1053|In another fortnight they shoved her, the same unscrupulous crowd, down to nine cents, and Jefferson still held on.
+data/LibriTTS/train-other-500/2748/160959/2748_160959_000029_000000.wav|554|The Prince thanked her, and having bidden her a sorrowful farewell, mounted his wooden steed and rode away.
+data/LibriTTS/train-clean-360/480/127525/480_127525_000014_000000.wav|1098|"Look astern, doctor," replied the captain.
+data/LibriTTS/train-clean-360/16/122827/16_122827_000010_000003.wav|196|And I'll be sure to say 'I seen.' I haven't often said it since Miss Stacy taught here; but in moments of excitement it's sure to pop out.
+data/LibriTTS/train-clean-360/3851/9210/3851_9210_000099_000001.wav|839|Why, if they were to guillotine me for it, I-"
+data/ei_data/MESS compressed/MESS compressed-CM3M16_SCR.wav|2442|Michael discussed the hit and the plan today
+data/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0013/Angry/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0013-Angry-0013_000391.wav|2381|I chose the right way.
+data/LibriTTS/train-clean-100/8629/261139/8629_261139_000039_000001.wav|2190|I want hundreds-thousands-now, now, to save myself! Disgrace, shame, prison await me if I don't have them.
+data/LibriTTS/train-clean-360/984/137141/984_137141_000021_000001.wav|2286|There will probably be a general impression that the man who landed (armed to the teeth and talking by signs) to plant the British flag on that barbaric temple which turned out to be the Pavilion at Brighton, felt rather a fool. I am not here concerned to deny that he looked a fool.
+data/LibriTTS/train-clean-100/8051/295385/8051_295385_000009_000000.wav|2032|In the preceding chapter we have spoken of the founding of Fort Casimir, and of the merciless warfare waged by its commander upon cabbages, sunflowers, and pumpkins, for want of better occasion to flesh his sword. Now it came to pass that higher up the Delaware, at his stronghold of Tinnekonk, resided one Jan Printz, who styled himself Governor of New Sweden.
+data/ei_data/MESS compressed/MESS compressed-AM3M11_SCR.wav|2442|Michael discussed the dump and the handle today
+data/LibriTTS/train-other-500/3144/166428/3144_166428_000003_000001.wav|661|The split air shrieked and shrilled, a keening barrier against the avalanche of the thunder.
+data/LibriTTS/train-other-500/2407/7667/2407_7667_000006_000008.wav|466|I got my gun ready but did not stir, and looked out.
+data/ei_data/Emotional Speech Dataset (ESD)/Emotion Speech Dataset/0019/Happy/Emotional Speech Dataset (ESD)-Emotion Speech Dataset-0019-Happy-0019_000883.wav|2387|Fresh pain seized Paul's body.
+data/ei_data/MEAD/W028/audio/surprised/level_3/MEAD-W028-audio-surprised-level_3-020.wav|2429|He further proposed grants of an unspecified sum for experimental Hospitals
+data/LibriTTS/train-clean-360/8113/117384/8113_117384_000011_000001.wav|2053|As he trilled forth his tender caressing strain, the heart of the listening woman translated as did that of the brooding bird.
+data/ei_data/MEAD/W019/audio/happy/level_1/MEAD-W019-audio-happy-level_1-011.wav|2423|That noise problem grows more annoying each day
+data/ei_data/CREMA-D/AudioWAV/CREMA-D-AudioWAV-1030_ITH_SAD_XX.wav|2317|I think I have a doctor's appointment
+data/LibriTTS/train-other-500/8215/275211/8215_275211_000042_000000.wav|2082|"We didn't cross any such brook as this on our way up!" john exclaimed.
+data/LibriTTS/train-clean-360/4967/28868/4967_28868_000020_000000.wav|1142|"No;--no!

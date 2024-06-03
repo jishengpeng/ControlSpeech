@@ -564,8 +564,8 @@ class SynthesizerTrn(nn.Module):
     self.dec = Generator(inter_channels, resblock, resblock_kernel_sizes, resblock_dilation_sizes, upsample_rates, upsample_initial_channel, upsample_kernel_sizes, gin_channels=gin_channels)
     self.enc_q = PosteriorEncoder(spec_channels, inter_channels, hidden_channels, 5, 1, 16, gin_channels=gin_channels)
     self.flow = ResidualCouplingBlock(inter_channels, hidden_channels, 5, 1, 4, gin_channels=gin_channels)
-    # self.style_encoder = ReferenceEncoder()
-    # self.grl_spk_cls = SpeakerClassifier(input_dim=gin_channels,output_dim=n_speakers)
+    self.style_encoder = ReferenceEncoder()
+    self.grl_spk_cls = SpeakerClassifier(input_dim=gin_channels,output_dim=n_speakers)
 
     if use_sdp:
       print('use_sdp','*'*50)

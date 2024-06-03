@@ -43,8 +43,8 @@ class BasePreprocessor:
         import csv
         emo_data_map = {}
         libri_data_map = {}
-        emo_datas = glob.glob('/data1/pmy/jlpro/EI_VC/data/raw/ei_data/**/*.wav',recursive=True)
-        libri_datas = glob.glob('/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS/**/*.wav',recursive=True)
+        emo_datas = glob.glob('data/ei_data/**/*.wav',recursive=True)
+        libri_datas = glob.glob('data/LibriTTS/**/*.wav',recursive=True)
         for emo_wav in tqdm(emo_datas):
             item_name = os.path.basename(emo_wav).split('.')[0]
             emo_data_map[item_name] = emo_wav
@@ -52,7 +52,7 @@ class BasePreprocessor:
             item_name = os.path.basename(libri_wav).split('.')[0]
             libri_data_map[item_name] = libri_wav
             
-        libri_raw_dir = '/data1/pmy/jlpro/EI_VC/data/raw/LibriTTS'
+        libri_raw_dir = 'data/LibriTTS'
         item_text_map = {}
         wavs_fp = glob.glob(f'{libri_raw_dir}/**/*.wav',recursive=True)
         for wav_fp in tqdm(wavs_fp):
@@ -62,7 +62,7 @@ class BasePreprocessor:
                 line = fp.readlines()[0].strip()
                 item_text_map[item_name] = line
         # 打开 CSV 文件并读取数据
-        with open('/data1/pmy/jlpro/EI_VC/data/raw/emo_features/emo_meta.csv', 'r', newline='') as csvfile:
+        with open('data/emo_features/emo_meta.csv', 'r', newline='') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
                 # 使用 item_name 作为键，emotion 作为值存储到字典中
