@@ -9,7 +9,7 @@ conda activate test
 pip install -r requirements.txt
 ```
 
-### Usage
+## Usage
 
 1. download baseline checkpoint from: [Google Drive](https://drive.google.com/drive/folders/1H8U165KjLV05axwRWgZRsBdGO4R9T7F_?usp=drive_link)
 
