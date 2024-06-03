@@ -7,39 +7,55 @@
 
 
 ## 🔥 News
-- *2024.06*: We release ControlSpeech on arxiv and opensource ControlToolkit.
+- *2024.06*: We release ControlSpeech on arxiv and opensource ControlToolkit. The ControlToolkit primarily comprises three components: the VccmDataset(which is based on the TextrolSpeech dataset), a set of relevant evaluation metrics, and the replication code for related baselines.
 - *2023.12*: [Textrolspeech](https://github.com/jishengpeng/TextrolSpeech) is accepted by ICASSP 2024.
 
 
-## VccmDataset
+## 1.VccmDataset
+Speech:
 
-## Evaluation Metrics
+- https://drive.google.com/file/d/1kNjYBqv_DohG8N3wF-J7kCSBmLxvs77N/view?usp=drive_link
+- http://www.openslr.org/60/
 
-### Speed acc
+Text:
+
+- The directory for storing text and related prompts is located in the "./VccmDataset" .
+
+- The test set comprises four groups, corresponding to experiment one through experiment 4 as described in the paper.
+
+## 2.Evaluation Metrics
+
+### 2.1 Speed Acc
 ```shell
 # To obtain the relevant grid, it is necessary to perform MFA alignment in advance
 mfa align --clean $BASE_DIR/$MFA_INPUTS $BASE_DIR/mfa_dict.txt $BASE_DIR_AGO/model/$MODEL_NAME.zip  $BASE_DIR/$MFA_OUTPUTS 
 python ./pitch_energy_dur_acc/duration_acc.py
 ```
 
-## Pitch and Energy acc
+### 2.2 Pitch and Energy Acc
 ```shell
 python ./pitch_energy_dur_acc/energy_pitch_acc.py
 ```
 
-## Emotion
+### 2.3 Emotion Acc
 ```shell
 # extract the embeddings of the test dataset using the pre-trained emotion2Vec model
 python ./emotion_acc/emotion2vec_demo.py
 # perform inference with the fine-tuned emotion model
 python ./emotion_acc/controlnet_emo_acc.py  
-
+```
+### 2.4 Wer and SPK-SV
+```shell
+# wer based on whisper
+python ./wer.py
+# spk based on wavlm-sv
+python ./spk_sv.py
 ```
 
-## Baseline(support PromptTTS and PromptStyle)
+## 3.Baseline(support PromptTTS and PromptStyle)
 
 
-### Installation
+### 3.1 Installation
 
 ```shell
 git clone https://github.com/jishengpeng/ControlSpeech.git && cd baseline
@@ -48,11 +64,11 @@ conda activate controlspeech
 pip install -r requirements.txt
 ```
 
-### Usage
+### 3.2 Usage
 
-1. download baseline checkpoint from: [Google Drive](https://drive.google.com/drive/folders/1H8U165KjLV05axwRWgZRsBdGO4R9T7F_?usp=drive_link)
+3.2.1. download baseline checkpoint from: [Google Drive](https://drive.google.com/drive/folders/1H8U165KjLV05axwRWgZRsBdGO4R9T7F_?usp=drive_link)
 
-2. inference with arbitrary content text and prompt text
+3.2.2. inference with arbitrary content text and prompt text
 
    ```shell
    #### promptTTS
@@ -65,7 +81,7 @@ pip install -r requirements.txt
    ```
 
 
-3. training for text-prompt tts models
+3.2.3. training for text-prompt tts models
 
    ```shell
    #### PromptTTS
