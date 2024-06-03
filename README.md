@@ -10,16 +10,27 @@
 - *2024.06*: We release ControlSpeech on arxiv and opensource ControlToolkit.
 - *2023.12*: [Textrolspeech](https://github.com/jishengpeng/TextrolSpeech) is accepted by ICASSP 2024.
 
-## Installation
+
+## VccmDataset
+
+
+
+## Evaluation Metrics
+
+
+## Baseline(support PromptTTS and PromptStyle)
+
+
+### Installation
 
 ```shell
 git clone https://github.com/jishengpeng/ControlSpeech.git && cd baseline
-conda create --name test python==3.9
-conda activate test
+conda create --name controlspeech python==3.9
+conda activate controlspeech
 pip install -r requirements.txt
 ```
 
-## Usage
+### Usage
 
 1. download baseline checkpoint from: [Google Drive](https://drive.google.com/drive/folders/1H8U165KjLV05axwRWgZRsBdGO4R9T7F_?usp=drive_link)
 
@@ -39,12 +50,12 @@ pip install -r requirements.txt
 3. training for text-prompt tts models
 
    ```shell
-   #### promptTTS
+   #### PromptTTS
    #1 data preprocessing, please refer to promptTTS/libritts_preprocess 
    #2 training
    CUDA_VISIBLE_DEVICES=0 python tasks/run.py --config egs/promptts.yaml  --exp_name promptts1_style_baseline --reset --hparams='seed=1200'
    
-   #### promptStyle
+   #### PromptStyle
    #1 data preprocessing
    python preprocess.py --text_index 2 --filelists filelists/prompt_audio_sid_text_train_filelist.txt filelists/prompt_audio_sid_text_val_filelist.txt filelists/prompt_audio_sid_text_test_filelist.txt
    #2 training
