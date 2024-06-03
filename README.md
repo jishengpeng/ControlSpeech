@@ -21,7 +21,7 @@ Text:
 
 - The directory for storing text and related prompts is located in the "./VccmDataset" .
 
-- The test set comprises four groups, corresponding to experiment one through experiment 4 as described in the paper.
+- The test set comprises four groups, corresponding to experiment one through experiment four as described in the paper.
 
 ## 2.Evaluation Metrics
 
