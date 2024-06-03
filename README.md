@@ -5,6 +5,11 @@
 [![demo](https://img.shields.io/badge/ControlSpeech-Demo-red)](https://controlspeech.github.io)
 [![model](https://img.shields.io/badge/%F0%9F%A4%97%20ControlSpeech-Models(Baseline)-blue)](https://drive.google.com/drive/folders/1H8U165KjLV05axwRWgZRsBdGO4R9T7F_?usp=drive_link)
 
+
+## 🔥 News
+- *2024.06*: We release ControlSpeech on arxiv and opensource ControlToolkit.
+- *2023.12*: [Textrolspeech](https://github.com/jishengpeng/TextrolSpeech) is accepted by ICASSP 2024.
+
 ## Installation
 
 ```shell
@@ -48,3 +53,19 @@ pip install -r requirements.txt
    # use_style_encoder=True
    CUDA_VISIBLE_DEVICES=0 python train_ms_stage2.py -c configs/prompt.json -m promptStyle_baseline
    ```
+
+
+## Citation
+
+If this code or VccmDataset contributes to your research, please cite our work:
+
+```
+@inproceedings{ji2024textrolspeech,
+  title={Textrolspeech: A text style control speech corpus with codec language text-to-speech models},
+  author={Ji, Shengpeng and Zuo, Jialong and Fang, Minghui and Jiang, Ziyue and Chen, Feiyang and Duan, Xinyu and Huai, Baoxing and Zhao, Zhou},
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={10301--10305},
+  year={2024},
+  organization={IEEE}
+}
+```
