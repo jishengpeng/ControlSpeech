@@ -1,7 +1,7 @@
 # ControlSpeech: Towards Simultaneous Zero-shot Speaker Cloning and Zero-shot Language Style Control With Decoupled Codec
 
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2402.12208.pdf) -->
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2406.01205)
 [![demo](https://img.shields.io/badge/ControlSpeech-Demo-red)](https://controlspeech.github.io)
 [![model](https://img.shields.io/badge/%F0%9F%A4%97%20ControlSpeech-Models(Baseline)-blue)](https://drive.google.com/drive/folders/1H8U165KjLV05axwRWgZRsBdGO4R9T7F_?usp=drive_link)
 
@@ -112,5 +112,14 @@ If this code or VccmDataset contributes to your research, please cite our work:
   pages={10301--10305},
   year={2024},
   organization={IEEE}
+}
+
+@misc{ji2024controlspeech,
+      title={ControlSpeech: Towards Simultaneous Zero-shot Speaker Cloning and Zero-shot Language Style Control With Decoupled Codec}, 
+      author={Shengpeng Ji and Jialong Zuo and Minghui Fang and Siqi Zheng and Qian Chen and Wen Wang and Ziyue Jiang and Hai Huang and Xize Cheng and Rongjie Huang and Zhou Zhao},
+      year={2024},
+      eprint={2406.01205},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS}
 }
 ```
