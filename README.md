@@ -16,6 +16,7 @@ Speech:
 
 - https://drive.google.com/file/d/1kNjYBqv_DohG8N3wF-J7kCSBmLxvs77N/view?usp=drive_link
 - http://www.openslr.org/60/
+- https://github.com/CheyneyComputerScience/CREMA-D
 
 Text:
 
