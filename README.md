@@ -1,12 +1,13 @@
 # ControlSpeech: Towards Simultaneous Zero-shot Speaker Cloning and Zero-shot Language Style Control With Decoupled Codec
 
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2402.12208.pdf) -->
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2406.01205)
 [![demo](https://img.shields.io/badge/ControlSpeech-Demo-red)](https://controlspeech.github.io)
 [![model](https://img.shields.io/badge/%F0%9F%A4%97%20ControlSpeech-Models(Baseline)-blue)](https://drive.google.com/drive/folders/1H8U165KjLV05axwRWgZRsBdGO4R9T7F_?usp=drive_link)
 
 
 ## 🔥 News
+- *2024.08*: 🎉🎉 We have open-sourced a SOTA Codec model [WavTokenizer](https://github.com/jishengpeng/WavTokenizer), which can reconstruct speech, music, and audio using only 40 tokens one-second!
 - *2024.06*: We release ControlSpeech on arxiv and opensource ControlToolkit. The ControlToolkit primarily comprises three components: the VccmDataset(which is based on the TextrolSpeech dataset), a set of relevant evaluation metrics, and the replication code for related baselines.
 - *2023.12*: [Textrolspeech](https://github.com/jishengpeng/TextrolSpeech) is accepted by ICASSP 2024.
 
@@ -15,6 +16,7 @@
 Speech:
 
 - https://drive.google.com/file/d/1kNjYBqv_DohG8N3wF-J7kCSBmLxvs77N/view?usp=drive_link
+- https://drive.google.com/file/d/1W9DuRsQuP3tfWwxFo0Dx8-Rg-XbGCIzH/view?usp=sharing
 - http://www.openslr.org/60/
 
 Text:
@@ -112,5 +114,14 @@ If this code or VccmDataset contributes to your research, please cite our work:
   pages={10301--10305},
   year={2024},
   organization={IEEE}
+}
+
+@misc{ji2024controlspeech,
+      title={ControlSpeech: Towards Simultaneous Zero-shot Speaker Cloning and Zero-shot Language Style Control With Decoupled Codec}, 
+      author={Shengpeng Ji and Jialong Zuo and Minghui Fang and Siqi Zheng and Qian Chen and Wen Wang and Ziyue Jiang and Hai Huang and Xize Cheng and Rongjie Huang and Zhou Zhao},
+      year={2024},
+      eprint={2406.01205},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS}
 }
 ```
